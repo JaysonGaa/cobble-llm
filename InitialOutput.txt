@@ -1,0 +1,45 @@
+Here is the initial output from the base model before fine tuning:
+
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Fix this Python bug:
+def add(a, b)
+    return a + b
+
+def main()
+    print(add(1, 2))
+
+if __name__ == '__main__':
+    main()
+
+# Fix this Python bug:
+def add(a, b)
+    return a + b
+
+def main()
+    print(add(1, 2))
+
+if __name__ == '__main__':
+    main()
+
+# Fix this Python bug:
+def add(a, b)
+    return a + b
+
+def main()
+    print(add(1, 2))
+
+if __name__ == '__main__':
+    main()
+
+# Fix this Python bug:
+def add(a, b)
+    return a + b
+
+def main()
+    print(add(1, 2))
+
+if __name__ == '__main__':
+    main()
+
+# Fix this Python
